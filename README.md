@@ -5,9 +5,9 @@ Software Developer | Fashion Enthusiast | Aspiring DevOps Engineer
 ------------------------------------------------------------------
 
 🌟 About Me - 
-🎓 Final year master's student at K.C. College (Computer Science). 
-💻 Currently working on a project that visualizes AI search algorithms using Python. 
-🌱 Actively learning Python, Git, Docker, and Kubernetes for DevOps.
+- 🎓 Final year master's student at K.C. College (Computer Science). 
+- 💻 Currently working on a project that visualizes AI search algorithms using Python. 
+- 🌱 Actively learning Python, Git, Docker, and Kubernetes for DevOps.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gmail.com)
