@@ -6,13 +6,12 @@ Software Developer | Fashion Enthusiast | Aspiring DevOps Engineer
 
 🌟 About Me - 
 -  you can see my website at https://vaishbil.github.io/portfolio/
-- 🎓 Final year master's student at K.C. College (Computer Science). 
-- 💻 Currently working on a project that visualizes AI search algorithms using Python. 
-- 🌱 Actively learning Python, Git, Docker, and Kubernetes for DevOps.
+- 🎓 Master's in Computer Science Graduate. 
+- 💻 Currently working on a website that help you keep track of your favorite shows. 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gmail.com)
-* 🧠  I'm learning Opencv, Computer Vision, Docker
+* 🧠  I'm currently learning JAVA 
 * ⚡  Fun Fact : When I'm not coding, I love writing stories on Wattpad!
 
 ### Skills
