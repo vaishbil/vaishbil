@@ -1,14 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=vaishali%20wankhede&fontSize=52&fontColor=f0d9e0&fontAlignY=38&desc=software%20developer%20%E2%80%A2%20creative%20chaos%20enthusiast&descAlignY=60&descColor=c2848f&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3D0C1A&height=220&section=header&text=vaishali%20wankhede&fontSize=56&fontColor=f0d9e0&fontAlignY=40&fontAlign=50&desc=software%20developer%20%E2%80%A2%20creative%20chaos%20enthusiast&descAlignY=62&descAlign=50&descColor=c2848f&animation=fadeIn&stroke=5c2333&strokeWidth=2" width="100%"/>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3000&pause=800&color=C2848F&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=building+things+that+live+on+the+internet+%F0%9F%8C%90;half+developer%2C+half+creative+%E2%80%94+refusing+to+pick+a+lane+%F0%9F%8E%A8;currently+obsessed+with+BingeTrackr+%F0%9F%8E%AC)](https://git.io/typing-svg)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=vaishbil&style=flat-square&color=8b3a4a&labelColor=1a0408&label=profile+views)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/vaishbil?style=flat-square&color=8b3a4a&labelColor=1a0408&label=followers&logo=github&logoColor=f0d9e0)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&duration=3500&pause=1000&color=C2848F&center=true&vCenter=true&width=650&height=60&lines=building+things+that+live+on+the+internet+%F0%9F%8C%90;half+developer%2C+half+creative+%E2%80%94+refusing+to+pick+a+lane+%F0%9F%8E%A8;currently+obsessed+with+BingeTrackr+%F0%9F%8E%AC;msc+cs+%C2%B7+mumbai+%C2%B7+open+to+opportunities+%E2%9C%A8)](https://git.io/typing-svg)
+
+<br/>
 
 </div>
 
@@ -25,7 +33,7 @@ const vaishali = {
   education    : "MSc Computer Science",
   currentlyOn  : "BingeTrackr — full-stack show tracker",
   stack        : ["HTML", "CSS", "JS", "Node.js", "MongoDB"],
-  alsoInto     : ["music", "visual design", "pixel art"],
+  alsoInto     : ["music", "web series", "fashion"],
   funFact      : "writes code and color palettes with equal passion"
 };
 ```
@@ -64,46 +72,103 @@ const vaishali = {
 
 ---
 
-### 🎬 &nbsp; featured project
-
-<div align="center">
-
-| | |
-|:---|:---|
-| **🎬 BingeTrackr** | A full-stack web app to track your favourite shows & movies |
-| **Stack** | `HTML` `CSS` `JavaScript` `Node.js` `MongoDB Atlas` |
-| **Deployed on** | Vercel (frontend) · Render (backend) |
-| **Highlight** | Demo mode — try it without signing up |
-
-</div>
-
----
-
 ### 📊 &nbsp; github stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vaishbil&show_icons=true&theme=transparent&title_color=c2848f&text_color=f0d9e0&icon_color=8b3a4a&border_color=3d1520&hide_border=false&count_private=true&include_all_commits=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishbil&layout=compact&theme=transparent&title_color=c2848f&text_color=f0d9e0&border_color=3d1520&hide_border=false&langs_count=6" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vaishbil&show_icons=true&theme=transparent&title_color=c2848f&text_color=f0d9e0&icon_color=c2848f&border_color=5c2333&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&card_width=400"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=vaishbil&show_icons=true&theme=transparent&title_color=c2848f&text_color=f0d9e0&icon_color=c2848f&border_color=5c2333&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&card_width=400"/>
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishbil&layout=donut&theme=transparent&title_color=c2848f&text_color=f0d9e0&border_color=5c2333&hide_border=false&langs_count=6"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishbil&layout=donut&theme=transparent&title_color=c2848f&text_color=f0d9e0&border_color=5c2333&hide_border=false&langs_count=6"/>
+</picture>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vaishbil&theme=transparent&background=00000000&border=3d1520&ring=8b3a4a&fire=c2848f&currStreakLabel=f0d9e0&sideLabels=f0d9e0&dates=c2848f&currStreakNum=f0d9e0&sideNums=f0d9e0" height="150"/>
+<img width="92%" src="https://streak-stats.demolab.com?user=vaishbil&theme=transparent&background=00000000&border=5c2333&ring=c2848f&fire=e8a0aa&currStreakLabel=f0d9e0&sideLabels=c2848f&dates=9a6068&currStreakNum=f0d9e0&sideNums=f0d9e0&stroke=5c2333&date_format=j%20M%5B%20Y%5D"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=vaishbil&bg_color=0d0408&color=c2848f&line=8b3a4a&point=f0d9e0&area=true&area_color=5c2333&border_color=5c2333&hide_border=false&custom_title=contribution%20graph&title_color=c2848f"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vaishbil&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" />
 
 </div>
 
 ---
 
-### 📬 &nbsp; find me here
+### 🌸 &nbsp; find me here
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/vaishaliwankhede0710%40gmail.com-1a0a0d?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vaishaliwankhede0710@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/vaishbil)
-[![GitHub](https://img.shields.io/badge/GitHub-1a0a0d?style=for-the-badge&logo=github&logoColor=f0d9e0)](https://github.com/vaishbil)
+<br/>
+
+<a href="mailto:vaishaliwankhede0710@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-3D0C1A?style=for-the-badge&logo=gmail&logoColor=e8a0aa&labelColor=3D0C1A" height="38"/>
+</a>
+&ensp;
+<a href="https://linkedin.com/in/vaishbil">
+  <img src="https://img.shields.io/badge/LinkedIn-3D0C1A?style=for-the-badge&logo=linkedin&logoColor=e8a0aa&labelColor=3D0C1A" height="38"/>
+</a>
+&ensp;
+<a href="https://github.com/vaishbil">
+  <img src="https://img.shields.io/badge/GitHub-3D0C1A?style=for-the-badge&logo=github&logoColor=e8a0aa&labelColor=3D0C1A" height="38"/>
+</a>
+
+<br/><br/>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td align="center" width="180">
+<a href="mailto:vaishaliwankhede0710@gmail.com">
+<img src="https://img.shields.io/badge/✉-3D0C1A?style=for-the-badge&logoColor=e8a0aa" width="56" height="56"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/email%20me-c2848f?style=flat-square&labelColor=1a0408&color=1a0408"/>
+<br/>
+<sub><code>vaishaliwankhede0710</code></sub>
+</a>
+</td>
+<td width="20">&nbsp;</td>
+<td align="center" width="180">
+<a href="https://linkedin.com/in/vaishbil">
+<img src="https://img.shields.io/badge/in-3D0C1A?style=for-the-badge&logoColor=e8a0aa" width="56" height="56"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/let's%20connect-c2848f?style=flat-square&labelColor=1a0408&color=1a0408"/>
+<br/>
+<sub><code>linkedin/in/vaishbil</code></sub>
+</a>
+</td>
+<td width="20">&nbsp;</td>
+<td align="center" width="180">
+<a href="https://github.com/vaishbil">
+<img src="https://img.shields.io/badge/⌥-3D0C1A?style=for-the-badge&logoColor=e8a0aa" width="56" height="56"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/see%20the%20work-c2848f?style=flat-square&labelColor=1a0408&color=1a0408"/>
+<br/>
+<sub><code>github/vaishbil</code></sub>
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
 
 </div>
 
@@ -111,8 +176,8 @@ const vaishali = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
+<br/>
 
-*made with too much chai and a playlist that refused to end* ☕
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3D0C1A&height=140&section=footer&animation=fadeIn&stroke=5c2333&strokeWidth=2&reversal=false&desc=thanks%20for%20stopping%20by%20%E2%80%94%20let%27s%20build%20something%20%E2%99%A5&descAlign=50&descAlignY=55&descColor=c2848f&fontSize=1" width="100%"/>
 
 </div>
