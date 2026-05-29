@@ -1,99 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=160&section=header&text=vaishali%20wankhede&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=software%20developer%20%E2%80%A2%20frontend%20%E2%80%A2%20builder%20of%20things&descAlignY=55&descSize=14" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=VAISHALI%20WANKHEDE&fontSize=40&fontColor=00ff41&animation=twinkling&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%7C%20LEVEL%2001&descAlignY=55&descSize=16&descColor=ffffff)
+
+</div>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Vaishali+%F0%9F%91%BE;Frontend+Dev+%2B+Creative+%E2%9C%8F%EF%B8%8F;Currently+Building+Cool+Stuff...;Press+Start+To+Continue+%E2%96%BA)
 
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vaishali-wankhede">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:vaishaliwankhede0710@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/k218b_">
-    <img src="https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="http://www.instagram.com/vaishhh">
-    <img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-</div>
 
-<br/>
+```
+ ██████╗  █████╗ ███╗   ███╗███████╗    ███████╗████████╗ █████╗ ██████╗ ████████╗
+██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗╚══██╔══╝
+██║  ███╗███████║██╔████╔██║█████╗      ███████╗   ██║   ███████║██████╔╝   ██║   
+██║   ██║██╔══██║██║╚██╔╝██║██╔══╝      ╚════██║   ██║   ██╔══██║██╔══██╗   ██║   
+╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗    ███████║   ██║   ██║  ██║██║  ██║   ██║   
+ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  
+```
+
+</div>
 
 ---
 
-```javascript
-const vaishali = {
-  title      : "Software Developer",
-  location   : "Mumbai, India 🇮🇳",
-  education  : "Master's in Computer Science",
-  focus      : ["Frontend Development", "Full Stack"],
-  currentlyBuilding : "BingeTrackr — a full-stack show tracking app",
-  funFact    : "Half developer, half creative who refuses to pick a lane ✏️",
-  reachMe    : "vaishaliwankhede0710@gmail.com"
-};
+<div align="center">
+
+## 👾 PLAYER ONE HAS ENTERED THE GAME
+
+</div>
+
+```python
+player = {
+    "name"     : "Vaishali Wankhede",
+    "class"    : "Software Developer",
+    "location" : "Mumbai, India 🇮🇳",
+    "edu"      : "Master's in Computer Science",
+    "xp"       : ["Frontend", "Full Stack"],
+    "quest"    : "Building BingeTrackr — full-stack show tracker",
+    "trait"    : "Half developer, half creative ✏️",
+    "contact"  : "vaishaliwankhede0710@gmail.com",
+    "status"   : "🟢 Online & Open to Opportunities"
+}
 ```
 
 ---
 
-<br/>
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extensions-black?style=flat-square&logo=googlechrome&logoColor=white)
+## 🎮 SKILL TREE
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Chrome](https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 </div>
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vaishbil&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishbil&layout=compact&theme=default&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishbil&theme=default&hide_border=true" />
-</div>
-
-<br/>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vaishbil/vaishbil/output/github-contribution-grid-snake.svg" />
-</div>
-
-<br/>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=100&section=footer" />
+
+## 📊 STATS BOARD
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishbil&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=0d0d0d" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishbil&layout=compact&theme=radical&hide_border=true&title_color=00ff41&text_color=ffffff&bg_color=0d0d0d" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishbil&theme=radical&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
+
 </div>
+
+---
+
+<div align="center">
+
+## 🐍 SNAKE EATING MY CONTRIBUTIONS
+
+<img src="https://raw.githubusercontent.com/vaishbil/vaishbil/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🕹️ FIND ME
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishali-wankhede)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishaliwankhede0710@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/k218b_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/vaishhh)
+
+<br/>
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=vaishbil.vaishbil&left_color=black&right_color=00ff41&left_text=visitors)
+
+</div>
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=120&section=footer)
