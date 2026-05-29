@@ -6,30 +6,29 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Vaishali+%F0%9F%91%BE;Frontend+Dev+%2B+Creative+%E2%9C%8F%EF%B8%8F;Currently+Building+Cool+Stuff...;Press+Start+To+Continue+%E2%96%BA)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Vaishali+%F0%9F%91%BE;Frontend+Dev+%2B+Creative+%E2%9C%8F%EF%B8%8F;Currently+Building+Cool+Stuff...;Press+Start+To+Continue+%E2%96%BA)
 
 </div>
 
 <br/>
 
+---
+
 <div align="center">
 
-```
- ██████╗  █████╗ ███╗   ███╗███████╗    ███████╗████████╗ █████╗ ██████╗ ████████╗
-██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██╔════╝╚══██╔══╝██╔══██╗██╔══██╗╚══██╔══╝
-██║  ███╗███████║██╔████╔██║█████╗      ███████╗   ██║   ███████║██████╔╝   ██║   
-██║   ██║██╔══██║██║╚██╔╝██║██╔══╝      ╚════██║   ██║   ██╔══██║██╔══██╗   ██║   
-╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗    ███████║   ██║   ██║  ██║██║  ██║   ██║   
- ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  
-```
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="top" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" />
 
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-## 👾 PLAYER ONE HAS ENTERED THE GAME
+## 👾 PLAYER 
 
 </div>
 
@@ -53,6 +52,7 @@ player = {
 
 ## 🎮 SKILL TREE
 
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30">&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -72,6 +72,10 @@ player = {
 <div align="center">
 
 ## 📊 STATS BOARD
+
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />
+
+<br/><br/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishbil&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=0d0d0d" />
 &nbsp;&nbsp;
@@ -99,14 +103,14 @@ player = {
 
 ## 🕹️ FIND ME
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" />
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishali-wankhede)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishaliwankhede0710@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/k218b_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/vaishhh)
-
-<br/>
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=vaishbil.vaishbil&left_color=black&right_color=00ff41&left_text=visitors)
 
 </div>
 
