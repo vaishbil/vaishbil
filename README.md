@@ -16,9 +16,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="top" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" />
+<img src="https://media0.giphy.com/media/6OrCT1jVbonHG/giphy.gif" width="400" />
 
 </div>
 
@@ -28,7 +26,7 @@
 
 <div align="center">
 
-## 👾 PLAYER 
+## 👾 PLAYER ONE HAS ENTERED
 
 </div>
 
