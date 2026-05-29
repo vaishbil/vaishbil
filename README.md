@@ -69,15 +69,15 @@ const vaishali = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vaishbil&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vaishbil&show_icons=true&theme=default&hide_border=true&count_private=true" />
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishbil&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishbil&layout=compact&theme=default&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishbil&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishbil&theme=default&hide_border=true" />
 </div>
 
 <br/>
