@@ -33,7 +33,7 @@ const vaishali = {
   title      : "Software Developer",
   location   : "Mumbai, India 🇮🇳",
   education  : "Master's in Computer Science",
-  focus      : ["Frontend Development", "Full Stack", "Chrome Extensions"],
+  focus      : ["Frontend Development", "Full Stack"],
   currentlyBuilding : "BingeTrackr — a full-stack show tracking app",
   funFact    : "Half developer, half creative who refuses to pick a lane ✏️",
   reachMe    : "vaishaliwankhede0710@gmail.com"
