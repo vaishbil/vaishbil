@@ -71,9 +71,6 @@ player = {
 
 ## 📊 STATS BOARD
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" />
-
-<br/><br/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishbil&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=0d0d0d" />
 &nbsp;&nbsp;
