@@ -71,11 +71,6 @@ player = {
 
 ## 📊 STATS BOARD
 
-
-
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishbil&theme=radical&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
