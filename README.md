@@ -72,9 +72,7 @@ player = {
 ## 📊 STATS BOARD
 
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishbil&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=0d0d0d" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishbil&layout=compact&theme=radical&hide_border=true&title_color=00ff41&text_color=ffffff&bg_color=0d0d0d" />
+
 
 <br/><br/>
 
