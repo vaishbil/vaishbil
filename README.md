@@ -14,34 +14,44 @@
 
 ### About
 
-MSc Computer Science graduate building things at the intersection of frontend development and design. Currently working on [BingeTrackr](https://github.com/vaishbil/BingeTrackr) — a full-stack show & movie tracker — and a Chrome extension for job tracking.
-
-I care about clean UI, thoughtful UX, and code that's readable. Open to frontend and full-stack roles.
+- 🎓 Master's in Computer Science graduate with a focus on frontend development
+- 💻 Currently building **BingeTrackr** — a full-stack web app to track your favourite shows, with a Node.js backend and MongoDB Atlas
+- 🌍 Based in Mumbai, India
+- ✏️ Half developer, half creative who refuses to pick a lane
+- ✉️ [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gmail.com)
+- 🟢 Open to opportunities
 
 ---
 
 ### Tech
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<div align="center">
+
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br/>HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br/>CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br/>JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" /><br/>Node.js | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /><br/>MongoDB |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /><br/>Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /><br/>Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /><br/>MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /><br/>Git | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" /><br/>VS Code |
+
+</div>
 
 ---
 
 ### Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishbil&theme=default&hide_border=true&background=ffffff&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" />
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vaishbil&show_icons=true&hide_border=true&theme=default&hide_title=false" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishbil&layout=compact&hide_border=true&theme=default" height="160" />
+
+</div>
 
 ---
 
 ### Contributions
 
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/vaishbil/vaishbil/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/vaishbil/vaishbil/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+
+</div>
