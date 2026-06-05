@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=vaishbil&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+<img height="160em" src="https://streak-stats.demolab.com/?user=vaishbil&theme=tokyonight&hide_border=true" />
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishbil&layout=compact&hide_border=true&theme=tokyonight" />
 
 </div>
