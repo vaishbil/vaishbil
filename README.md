@@ -14,7 +14,7 @@
 
 ### About me
 
-- 🎓 Master's in Computer Science graduate with a focus on frontend development
+- 🛠️ Building projects, learning new tech, and figuring things out as I go
 - 💻 Currently building **BingeTrackr** — a full-stack web app to track your favourite shows, with a Node.js backend and MongoDB Atlas
 - ✏️ Half developer, half creative who refuses to pick a lane
 - ✉️ [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gmail.com)
