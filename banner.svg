@@ -1,0 +1,13 @@
+<svg viewBox="0 0 680 120" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <rect width="680" height="120" fill="#020817"/>
+  <ellipse cx="200" cy="0" rx="300" ry="80" fill="#06b6d4" opacity="0.07"/>
+  <ellipse cx="480" cy="10" rx="250" ry="70" fill="#8b5cf6" opacity="0.09"/>
+  <ellipse cx="340" cy="20" rx="200" ry="60" fill="#06b6d4" opacity="0.05"/>
+  <line x1="40" y1="88" x2="640" y2="88" stroke="rgba(255,255,255,0.06)" stroke-width="0.5"/>
+  <text x="40" y="60" font-family="sans-serif" font-size="28" font-weight="500" fill="#f1f5f9">Vaishali Wankhede</text>
+  <text x="40" y="80" font-family="sans-serif" font-size="12" fill="#94a3b8">Frontend Developer · Mumbai, India</text>
+  <text x="40" y="104" font-family="monospace" font-size="10" fill="#22d3ee" letter-spacing="1">vaishbil.github.io/portfolio</text>
+  <circle cx="640" cy="50" r="22" fill="#06b6d4" fill-opacity="0.1" stroke="#06b6d4" stroke-opacity="0.2" stroke-width="0.5"/>
+  <text x="640" y="45" font-family="sans-serif" font-size="9" fill="#67e8f9" text-anchor="middle">open</text>
+  <text x="640" y="58" font-family="sans-serif" font-size="9" fill="#67e8f9" text-anchor="middle">to work</text>
+</svg>
