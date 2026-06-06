@@ -1,8 +1,10 @@
 <div align="center">
+<img src="https://raw.githubusercontent.com/vaishbil/vaishbil/main/banner.svg" width="100%" />
+</div>
 
-# Vaishali Wankhede
+<br/>
 
-### from Mumbai, India
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishali-wankhede)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vaishaliwankhede0710@gmail.com)
