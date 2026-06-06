@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/vaishbil/vaishbil/main/coder-girl.jpg" width="600" height="300" style="object-fit:cover; border-radius:12px;" />
+<img src="https://raw.githubusercontent.com/vaishbil/vaishbil/main/coder-girl.jpg" width="1000" height="300" style="object-fit:cover; border-radius:12px;" />
 
 </div>
 
