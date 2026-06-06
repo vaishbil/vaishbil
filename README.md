@@ -10,6 +10,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vaishaliwankhede0710@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=github&logoColor=white)](https://vaishbil.github.io/portfolio)
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/vaishbil/vaishbil/main/coder-girl.jpg" width="600" height="300" style="object-fit:cover; border-radius:12px;" />
+
 </div>
 
 ---
