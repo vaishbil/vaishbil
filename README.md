@@ -24,7 +24,7 @@
 - 💻 Currently building **BingeTrackr** — a full-stack web app to track your favourite shows, with a Node.js backend and MongoDB Atlas
 - ✏️ Half developer, half creative who refuses to pick a lane
 - ✉️ [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gmail.com)
-- 🟢 Open to opportunities
+- 🟢 Open to new opportunities
 
 ---
 
