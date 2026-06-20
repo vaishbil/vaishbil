@@ -21,7 +21,7 @@
 ### About me
 
 - 🛠️ Building things, breaking things, and learning from both.
-- 💻 - 💻 Currently building **[BingeTrackr](https://bingetrackr.vercel.app)** — basically a movie/show tracker I made bcz I was tired of forgetting what to watch next. Full-stack, Node.js + MongoDB Atlas.
+- 💻 Currently building **[BingeTrackr](https://bingetrackr.vercel.app)** basically a movie/show tracker I made bcz I was tired of forgetting what to watch next.
 - ✉️ [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gmail.com)
 - 🟢 Open to collaborations and opportunities.
 
