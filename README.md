@@ -27,7 +27,7 @@
 
 ---
 
-### Tech
+### Tech Stack
 
 <div align="center">
 
