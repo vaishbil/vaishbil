@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/vaishbil/vaishbil/main/%40mejwh%20%C2%B7%20mejwh%20(1).gif" width="100%" />
+<img src="https://raw.githubusercontent.com/vaishbil/vaishbil/main/coder-girl.gif" width="100%" height="300" />
 
 </div>
 
