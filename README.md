@@ -11,7 +11,7 @@
 
 <br/>
 
-[![](https://raw.githubusercontent.com/vaishbil/vaishbil/main/%40mejwh%20%C2%B7%20mejwh%20(1).gif)](https://raw.githubusercontent.com/vaishbil/vaishbil/main/%40mejwh%20%C2%B7%20mejwh%20(1).gif)
+<img src="https://raw.githubusercontent.com/vaishbil/vaishbil/main/%40mejwh%20%C2%B7%20mejwh%20(1).gif" width="100%" />
 
 </div>
 
