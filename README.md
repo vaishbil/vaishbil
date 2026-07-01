@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/vaishbil/vaishbil/main/coder-girl.gif" width="100%" height="500" />
+<img src="https://raw.githubusercontent.com/vaishbil/vaishbil/main/coder-girl.gif" width="100%"/>
 
 </div>
 
