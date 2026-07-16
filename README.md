@@ -19,17 +19,20 @@
 
 <table>
 <tr>
-<td width="40%">
-<a href="https://gitfut.com/vaishbil">
+<td width="35%" valign="top">
+<a href="https://gitfut.com/vaishbil?country=in">
 <img src="https://gitfut.com/vaishbil/opengraph-image?57b1687aaacbd944" width="100%" />
 </a>
 </td>
-<td width="60%" valign="middle">
+<td width="65%" valign="top">
 
-### About me
-- 🛠️ Building things, breaking things, and learning from both.
-- 💻 Currently building **[BingeTrackr](https://bingetrackr.vercel.app)** basically a movie/show tracker I made bcz I was tired of forgetting what to watch next.
-- ✉️ [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gmail.com)
+## About Me
+
+Building things, breaking things, and learning from both.
+
+Currently building **[BingeTrackr](https://bingetrackr.vercel.app)** — basically a movie/show tracker I made because I was tired of forgetting what to watch next.
+
+[vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gmail.com)
 
 </td>
 </tr>
