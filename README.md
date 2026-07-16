@@ -31,7 +31,7 @@ Currently learning React and modern tech.
 
 Open to collabs, freelance gigs, or just nerding out about frontend/full-stack ideas.
 
-[vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gmail.com) 
+contact me at :- [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gmail.com) 
 
 <div align="center">
 
