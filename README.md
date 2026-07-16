@@ -17,14 +17,23 @@
 
 ---
 
-### About me
+<table>
+<tr>
+<td width="40%">
+<a href="https://gitfut.com/vaishbil">
+<img src="https://gitfut.com/vaishbil/opengraph-image?57b1687aaacbd944" width="100%" />
+</a>
+</td>
+<td width="60%" valign="middle">
 
+### About me
 - 🛠️ Building things, breaking things, and learning from both.
 - 💻 Currently building **[BingeTrackr](https://bingetrackr.vercel.app)** basically a movie/show tracker I made bcz I was tired of forgetting what to watch next.
-- ✉️ [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gmail.com).
+- ✉️ [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gmail.com)
 
-
----
+</td>
+</tr>
+</table>
 
 ### Tech Stack
 <div align="center">
