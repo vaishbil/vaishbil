@@ -32,6 +32,10 @@ Building things, breaking things, and learning from both.
 
 Currently building **[BingeTrackr](https://bingetrackr.vercel.app)** — basically a movie/show tracker I made because I was tired of forgetting what to watch next.
 
+Currently learning React and modern tech.
+
+Open to collabs, freelance gigs, or just nerding out about frontend/full-stack ideas.
+
 [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gmail.com)
 
 </td>
