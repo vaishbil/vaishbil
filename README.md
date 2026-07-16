@@ -21,7 +21,7 @@
 <tr>
 <td width="35%" valign="top">
 <a href="https://gitfut.com/vaishbil?country=in">
-<img src="https://gitfut.com/vaishbil/opengraph-image?57b1687aaacbd944" width="100%" />
+<img src="https://gitfut.com/vaishbil.png" width="100%" />
 </a>
 </td>
 <td width="65%" valign="top">
