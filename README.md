@@ -62,17 +62,6 @@ Open to collabs, freelance gigs, or just nerding out about frontend/full-stack i
 
 ---
 
-### Stats
-
-<div align="center">
-
-<img height="160em" src="https://streak-stats.demolab.com/?user=vaishbil&theme=tokyonight&hide_border=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishbil&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
-
----
-
 ### Contributions
 
 <div align="center">
