@@ -6,11 +6,6 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishali-wankhede)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vaishaliwankhede0710@gmail.com)
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/vaishbil/vaishbil/main/%40mejwh%20%C2%B7%20mejwh%20(1).gif" width="100%" />
 
 </div>
@@ -36,7 +31,14 @@ Currently learning React and modern tech.
 
 Open to collabs, freelance gigs, or just nerding out about frontend/full-stack ideas.
 
-[vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gmail.com)
+[vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gmail.com) 
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishali-wankhede)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vaishaliwankhede0710@gmail.com)
+
+</div>
 
 </td>
 </tr>
