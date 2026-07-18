@@ -39,7 +39,6 @@ contact me at :- [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gm
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vaishaliwankhede0710@gmail.com)
 
 </div>
-
 </td>
 </tr>
 </table>
