@@ -29,6 +29,8 @@ contact me at :- [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gm
 
 </div>
 
+---
+
 ### Tech Stack
 
 <div align="center">
