@@ -5,21 +5,10 @@
 <br/>
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/vaishbil/vaishbil/main/%40mejwh%20%C2%B7%20mejwh%20(1).gif" width="100%" />
-
 </div>
 
 ---
-
-<table>
-<tr>
-<td width="35%" valign="top">
-<a href="https://gitfut.com/vaishbil?country=in">
-<img src="https://gitfut.com/vaishbil.png" width="100%" />
-</a>
-</td>
-<td width="65%" valign="top">
 
 ## About Me
 
@@ -31,7 +20,7 @@ Currently learning React and modern tech.
 
 Open to collabs, freelance gigs, or just nerding out about frontend/full-stack ideas.
 
-contact me at :- [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gmail.com) 
+contact me at :- [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gmail.com)
 
 <div align="center">
 
@@ -39,11 +28,9 @@ contact me at :- [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gm
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vaishaliwankhede0710@gmail.com)
 
 </div>
-</td>
-</tr>
-</table>
 
 ### Tech Stack
+
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
@@ -64,8 +51,6 @@ contact me at :- [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gm
 ### Contributions
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/vaishbil/vaishbil/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/vaishbil/vaishbil/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-
 </div>
