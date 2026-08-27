@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/vaishbil/vaishbil/main/banner.svg" width="100%" />
 </div>
-
 <br/>
 
 <div align="center">
