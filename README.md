@@ -28,7 +28,6 @@ contact me at :- [vaishaliwankhede0710@gmail.com](mailto:vaishaliwankhede0710@gm
 ---
 
 ### Tech Stack
-
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
