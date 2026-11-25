@@ -9,6 +9,7 @@
 ---
 
 ## About Me
+
 Building things, breaking things, and learning from both.
 
 Currently learning React and modern tech.
