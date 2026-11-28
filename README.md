@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://raw.githubusercontent.com/vaishbil/vaishbil/main/banner.svg" width="100%" />
-</div>
+</div> -->
 <br/>
 <div align="center">
 <img src="https://raw.githubusercontent.com/vaishbil/vaishbil/main/%40mejwh%20%C2%B7%20mejwh%20(1).gif" width="100%" />
